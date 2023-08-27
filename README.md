@@ -1,1 +1,1 @@
-# mlx_basic_movement
+# mlx_empty_template
